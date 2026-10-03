@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of imdong/flarum-ext-anti-change-email.** Not for installation: use [Packagist](https://packagist.org/packages/imdong/flarum-ext-anti-change-email) or the [upstream repository](https://github.com/imdong/flarum-ext-anti-change-email).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/imdong-flarum-ext-anti-change-email/tree/archive/v1.0.2) · License: `LGPL-3.0-only` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/imdong-flarum-ext-anti-change-email/tree/archive/v1.0.2) · License: `LGPL-3.0-only` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-11-12 | `^1.2.0` | [Browse](https://github.com/flarchive/imdong-flarum-ext-anti-change-email/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-11-12 | `^1.2.0` | [Browse](https://github.com/flarchive/imdong-flarum-ext-anti-change-email/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-11-12 | `^1.2.0` | [Browse](https://github.com/flarchive/imdong-flarum-ext-anti-change-email/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/imdong-flarum-ext-anti-change-email.json](https://github.com/flarchive/archive-index/blob/main/packages/imdong-flarum-ext-anti-change-email.json)
 
